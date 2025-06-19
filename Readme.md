@@ -1,3 +1,3 @@
 # Cognizant Nurture
 
-This repository includes learning materials, coding exercises, and resources from the Cognizant Nurture Program — a training initiative designed to strengthen technical skills in Java, SQL, and Web Development for new joiners.
+This repository contains my solutions to the practice problems from the Cognizant Nurture Program. It is created as part of the submission requirement, hosted publicly as instructed.
